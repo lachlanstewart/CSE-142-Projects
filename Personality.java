@@ -1,8 +1,6 @@
 //Lachlan Stewart
-//Student ID 2032212
 //11/22/2020
 //CSE 142 BD 
-//TA: Millen Katyal
 //Assessment 7 Personality Test
 //This program converts Keirnsey test answers into personality types 
 
