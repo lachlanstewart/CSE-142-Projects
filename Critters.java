@@ -1,8 +1,6 @@
 //Lachlan Stewart
-//Student ID 2032212
 //12/04/2020
 //CSE 142 BD 
-//TA: Millen Katyal
 //Assessment 8 Critters Assignment
 
 import java.util.*;
