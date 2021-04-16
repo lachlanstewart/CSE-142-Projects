@@ -1,8 +1,6 @@
 //Lachlan Stewart
-//Student ID 2032212
 //11/13/2020
 //CSE 142 BD 
-//TA: Millen Katyal
 //Assessment 6 Yaz Interpreter
 //This program allows the user to interpret and view programs written in YazLang.
 
