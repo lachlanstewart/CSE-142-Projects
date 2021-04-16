@@ -1,8 +1,6 @@
 //Lachlan Stewart
-//Student ID 2032212
 //10/23/2020
 //CSE 142 BD 
-//TA: Millen Katyal
 //Assessment 4 Budgeter Project
 //This program calculates your net monthly income.
 
